@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/AminZarei72/static/js/main.8fe7f8ba.chunk.js",
-    "main.js.map": "/AminZarei72/static/js/main.8fe7f8ba.chunk.js.map",
+    "main.js": "/AminZarei72/static/js/main.1637d322.chunk.js",
+    "main.js.map": "/AminZarei72/static/js/main.1637d322.chunk.js.map",
     "runtime-main.js": "/AminZarei72/static/js/runtime-main.a00c91ef.js",
     "runtime-main.js.map": "/AminZarei72/static/js/runtime-main.a00c91ef.js.map",
     "static/js/2.5d11059f.chunk.js": "/AminZarei72/static/js/2.5d11059f.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.a00c91ef.js",
     "static/js/2.5d11059f.chunk.js",
-    "static/js/main.8fe7f8ba.chunk.js"
+    "static/js/main.1637d322.chunk.js"
   ]
 }
