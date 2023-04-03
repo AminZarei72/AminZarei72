@@ -1,7 +1,7 @@
 - 📫  
     - https://aminzarei72.github.io/AminZarei72/
     - aminzarei.work@gmail.com
-    - @AminZarei72_w
+    - twitter: https://twitter.com/AminZarei72_w
     
 <!---
 AminZarei72/AminZarei72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
