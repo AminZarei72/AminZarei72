@@ -1,6 +1,7 @@
 - 📫  
     - https://aminzarei72.github.io/AminZarei72/
-    - aminzarei.work@gmail.com
+    - gmail: aminzarei.work@gmail.com
+    - linkedin: https://linkedin.com/in/aminzarei72
     - twitter: https://twitter.com/AminZarei72_w
     
 <!---
